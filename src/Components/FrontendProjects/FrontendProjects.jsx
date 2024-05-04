@@ -8,7 +8,7 @@ const FrontendProjects = () => {
           <div className="">
             <img
               className="w-full h-64 object-fill rounded-xl"
-              src="src/assets/topic.png"
+              src="https://res.cloudinary.com/dltk6m7c5/image/upload/v1714809964/k8wdcb8czfxediqhdah9.png"
               alt=""
             />
           </div>
@@ -44,7 +44,7 @@ const FrontendProjects = () => {
           <div className="">
             <img
               className="w-full h-64 object-fill rounded-xl"
-              src="src/assets/portfolio.png"
+              src="https://res.cloudinary.com/dltk6m7c5/image/upload/v1714809963/udunngdm1wpfm8tqqv1m.png"
               alt=""
             />
           </div>
