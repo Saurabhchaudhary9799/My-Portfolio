@@ -2,7 +2,11 @@ import React from 'react'
 
 const ContactMe = () => {
   return (
-    <div>ContactMe</div>
+    <section className="contact-section flex justify-center items-center">
+       <div className="contact">
+           
+       </div>
+    </section>
   )
 }
 

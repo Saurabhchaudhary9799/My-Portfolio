@@ -5,9 +5,12 @@ import FullStackProjects from '../FullStackProjects/FullStackProjects';
 import FrontendProjects from '../FrontendProjects/FrontendProjects';
 import ShortLearningProjects from '../ShortLearningProjects/ShortLearningProjects';
 const Projects = () => {
+
+   
+
   return (
     <>
-     <section className='project-section px-[120px] mb-10'>
+     <section className='project-section px-[20px] mb:5 md:px-[120px] md:mb-10'>
         
              <h1 className='text-white text-2xl mb-3 '>Projects</h1>
             <div className="projects">

@@ -4,7 +4,7 @@ import Education from '../Education/Education'
 const AboutMe = () => {
   return (
     <section className="about-me-section flex justify-center  py-16">
-  <div className="container  px-[100px]">
+  <div className="container px-[20px] sm:px-[100px]">
        <div className='text-white text-2xl '>
         <h1>About Me</h1>
        </div>
