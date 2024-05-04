@@ -9,7 +9,7 @@ const FullStackProjects = () => {
           <div className="">
             <img
               className="w-full h-64 object-cover rounded-xl"
-              src="https://images.pexels.com/photos/693859/pexels-photo-693859.jpeg?auto=compress&cs=tinysrgb&w=600"
+              src="src/assets/chatify.png"
               alt=""
             />
           </div>
@@ -41,7 +41,7 @@ const FullStackProjects = () => {
           <div className="">
             <img
               className="w-full h-64 object-cover rounded-xl"
-              src="https://images.pexels.com/photos/693859/pexels-photo-693859.jpeg?auto=compress&cs=tinysrgb&w=600"
+              src="src/assets/natours.png"
               alt=""
             />
           </div>

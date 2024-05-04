@@ -7,8 +7,8 @@ const FrontendProjects = () => {
         <div className="border  rounded-xl  bg-[#171f38]">
           <div className="">
             <img
-              className="w-full h-64 object-cover rounded-xl"
-              src="https://images.pexels.com/photos/693859/pexels-photo-693859.jpeg?auto=compress&cs=tinysrgb&w=600"
+              className="w-full h-64 object-fill rounded-xl"
+              src="src/assets/topic.png"
               alt=""
             />
           </div>
@@ -43,8 +43,8 @@ const FrontendProjects = () => {
         <div className="border  rounded-xl  bg-[#171f38]">
           <div className="">
             <img
-              className="w-full h-64 object-cover rounded-xl"
-              src="https://images.pexels.com/photos/693859/pexels-photo-693859.jpeg?auto=compress&cs=tinysrgb&w=600"
+              className="w-full h-64 object-fill rounded-xl"
+              src="src/assets/portfolio.png"
               alt=""
             />
           </div>

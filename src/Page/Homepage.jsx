@@ -15,6 +15,7 @@ const Homepage = () => {
     <AboutMe/>
     <Skills/>
     <Projects/>
+    <ContactMe/>
     <Footer/>
     </>
   )
