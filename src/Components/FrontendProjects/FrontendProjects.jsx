@@ -4,7 +4,7 @@ const FrontendProjects = () => {
   return (
     <section className="frontend-projects">
       <div className="container grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        <div className="border  rounded-xl  bg-[#171f38]">
+        <div className="  rounded-xl  bg-[#171f38] ease-in-out duration-300 hover:-translate-y-[3px]">
           <div className="">
             <img
               className="w-full h-64 object-fill rounded-xl"
@@ -24,7 +24,7 @@ const FrontendProjects = () => {
               <div className="border p-2 bg-white rounded-xl">Javascript</div>
             </div>
             <div className="flex justify-between  ">
-              <div className=" p-2 bg-white rounded-xl bg-yellow-500">
+              <div className=" p-2 bg-white rounded-xl bg-yellow-500 ease-in-out duration-300 hover:-translate-y-[3px]">
                 <a
                   href="https://github.com/Saurabhchaudhary9799/Topic"
                   target="_blank"
@@ -34,13 +34,13 @@ const FrontendProjects = () => {
                 </a>
               </div>
 
-              <div className=" p-2 bg-white rounded-xl bg-blue-500">
+              <div className=" p-2 bg-white rounded-xl bg-blue-500 ease-in-out duration-300 hover:-translate-y-[3px]">
                 Live View
               </div>
             </div>
           </div>
         </div>
-        <div className="border  rounded-xl  bg-[#171f38]">
+        <div className="  rounded-xl  bg-[#171f38] ease-in-out duration-300 hover:-translate-y-[3px]">
           <div className="">
             <img
               className="w-full h-64 object-fill rounded-xl"
@@ -58,7 +58,7 @@ const FrontendProjects = () => {
               <div className="border p-2 bg-white rounded-xl">Tailwind</div>
             </div>
             <div className="flex justify-between  ">
-              <div className=" p-2 bg-white rounded-xl bg-yellow-500">
+              <div className=" p-2 bg-white rounded-xl bg-yellow-500 ease-in-out duration-300 hover:-translate-y-[3px]">
                 <a
                   href="https://github.com/Saurabhchaudhary9799/My-Portfolio"
                   target="_blank"
@@ -68,7 +68,7 @@ const FrontendProjects = () => {
                 </a>
               </div>
 
-              <div className=" p-2 bg-white rounded-xl bg-blue-500">
+              <div className=" p-2 bg-white rounded-xl bg-blue-500 ease-in-out duration-300 hover:-translate-y-[3px]">
                 Live View
               </div>
             </div>

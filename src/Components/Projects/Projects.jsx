@@ -10,7 +10,7 @@ const Projects = () => {
 
   return (
     <>
-     <section className='project-section px-[20px] mb:5 md:px-[120px] md:mb-10'>
+     <section className='project-section px-[20px] mb:5 md:px-[120px] md:mb-10' id='projects'>
         
              <h1 className='text-white text-2xl mb-3 '>Projects</h1>
             <div className="projects">
